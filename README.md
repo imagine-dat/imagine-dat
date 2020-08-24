@@ -1,5 +1,7 @@
 # We are Imagine Dat
 
+![Imagine Dat](https://github.com/imagine-dat/imagine-dat/blob/master/Artboard%202%20copy%204.png)
+
 ## Thank you to those who joined us for our most recent workshop! we hope to provide you with more fun events in the future!
 
 ## __ABOUT US__
